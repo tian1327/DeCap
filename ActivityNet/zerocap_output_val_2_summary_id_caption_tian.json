@@ -1,4 +1,1104 @@
 {
+    "v_gOniW-yEZ0k": {
+        "start": 0,
+        "end": 13.58,
+        "summary_cap": "a man is sitting in a park with his legs extended.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Shaving_legs/gOniW-yEZ0k.mp4",
+        "generated_summary": "Video highlighting injury marks on leg of foot, thigh and ankle after being hit.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Shaving_legs/gOniW-yEZ0k.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/gOniW-yEZ0k",
+        "DeCap_caption": "To be generated"
+    },
+    "v_ng14GLT_hHQ": {
+        "start": 0,
+        "end": 153.35,
+        "summary_cap": "A man is seen on his knees surrounded by painting tools and materials.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_nGABbRHJ2Ug": {
+        "start": 0,
+        "end": 113.34,
+        "summary_cap": "A girl in a pink top explains to a man how to use an elliptical machine at a gym.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Spinning/nGABbRHJ2Ug.mp4",
+        "generated_summary": "Video illustrates gym treadmill girl's workout with blonde boyfriend, who has a huge cock and is ready to fuck her",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Spinning/nGABbRHJ2Ug.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/nGABbRHJ2Ug",
+        "DeCap_caption": "To be generated"
+    },
+    "v_tY6UFSLtIoE": {
+        "start": 0,
+        "end": 231.97,
+        "summary_cap": "People are dancing in a room with colorful lights.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Cumbia/tY6UFSLtIoE.mp4",
+        "generated_summary": "Video featuring a man being thrown off nightclub rave.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Cumbia/tY6UFSLtIoE.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/tY6UFSLtIoE",
+        "DeCap_caption": "To be generated"
+    },
+    "v_EwjDShmfFHM": {
+        "start": 0,
+        "end": 89.82,
+        "summary_cap": "A person is standing in front of a sink.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Washing_hands/EwjDShmfFHM.mp4",
+        "generated_summary": "Video describes how to remove soap from toilet bowl and wash hands in a sink, using hand.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Washing_hands/EwjDShmfFHM.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/EwjDShmfFHM",
+        "DeCap_caption": "To be generated"
+    },
+    "v_nezTU6Bq5hM": {
+        "start": 0,
+        "end": 45.19,
+        "summary_cap": "A teen is squatting in the grass cutting grass with hedge shears.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Cutting_the_grass/nezTU6Bq5hM.mp4",
+        "generated_summary": "Video highlighting the grass rake and shovel digging in a lawn.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Cutting_the_grass/nezTU6Bq5hM.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/nezTU6Bq5hM",
+        "DeCap_caption": "To be generated"
+    },
+    "v_eI_LceS_qnQ": {
+        "start": 0,
+        "end": 148.21,
+        "summary_cap": "Women are dancing together in a room.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Zumba/eI_LceS_qnQ.mp4",
+        "generated_summary": "Video highlighting a workout that was part of this summer's dance party at the gym.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Zumba/eI_LceS_qnQ.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/qnQ",
+        "DeCap_caption": "To be generated"
+    },
+    "v_O_fdvOxYqiY": {
+        "start": 0,
+        "end": 165.03,
+        "summary_cap": "There's a man in a gray shirt and black hat sitting on a stool in his living room with a set of banjo drums in front of him and a couch behind him that some more music instruments on it.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_congas/O_fdvOxYqiY.mp4",
+        "generated_summary": "Video featuring drumming, percussionist and producer John 'Duke of the drums is back in studio.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_congas/O_fdvOxYqiY.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/fdvOxYqiY",
+        "DeCap_caption": "To be generated"
+    },
+    "v_2q_4I3ae0J4": {
+        "start": 0,
+        "end": 122.97,
+        "summary_cap": "A guy is hitting a ball with a stick and the action is being played in many different video speeds and angles to really catch the full view of how good he hit the ball.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Hurling/2q_4I3ae0J4.mp4",
+        "generated_summary": "Video displaying Ireland's goal kicking record in the last international game of a career.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Hurling/2q_4I3ae0J4.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/4I3ae0J4",
+        "DeCap_caption": "To be generated"
+    },
+    "v_lgu-DBDWlEs": {
+        "start": 0,
+        "end": 18.79,
+        "summary_cap": "There's a woman dressed in a white hoodie seated on a dinning chair by the dinning table in her kitchen, peeling potatoes straight into a trash can.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_olBh9KMAHMQ": {
+        "start": 0,
+        "end": 149.21,
+        "summary_cap": "A car is shown covered in snow.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_0RIc6mwDRaQ": {
+        "start": 0,
+        "end": 158.52,
+        "summary_cap": "A woman is sitting at a harp.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_flauta/0RIc6mwDRaQ.mp4",
+        "generated_summary": "Video features violinist performing a sacred ceremony in the cathedral church of St.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_flauta/0RIc6mwDRaQ.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/0RIc6mwDRaQ",
+        "DeCap_caption": "To be generated"
+    },
+    "v_1B3XsffrM4M": {
+        "start": 0,
+        "end": 115.5,
+        "summary_cap": "Three people wearing all black are standing on a red carpet.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_WCCkmuFrSQ0": {
+        "start": 0,
+        "end": 185.85,
+        "summary_cap": "little girl is standing in a living room wearing a pincess custome and behind her kid wearing a wonderwoman custom is playing with her.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Hopscotch/WCCkmuFrSQ0.mp4",
+        "generated_summary": "Video illustrating the toddler's reaction when a toy falls on her.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Hopscotch/WCCkmuFrSQ0.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/WCCkmuFrSQ0",
+        "DeCap_caption": "To be generated"
+    },
+    "v_yQ2AirKmnTM": {
+        "start": 0,
+        "end": 39.56,
+        "summary_cap": "A large group of adults and children are sitting in bumper cars and driving around hitting one another or into walls.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Riding_bumper_cars/yQ2AirKmnTM.mp4",
+        "generated_summary": "Video showing the ride's passengers getting into a car and crashing is not safe.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Riding_bumper_cars/yQ2AirKmnTM.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/yQ2AirKmnTM",
+        "DeCap_caption": "To be generated"
+    },
+    "v_hltWAq_Odxk": {
+        "start": 0,
+        "end": 9.34,
+        "summary_cap": "Two guys are playing wrestling in front of an audience.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Doing_a_powerbomb/hltWAq_Odxk.mp4",
+        "generated_summary": "Video presents the wrestler's entrance, and then some of his moves.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Doing_a_powerbomb/hltWAq_Odxk.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/Odxk",
+        "DeCap_caption": "To be generated"
+    },
+    "v_C10_qXWxpsk": {
+        "start": 0,
+        "end": 73.54,
+        "summary_cap": "There's a young girl wearing a blue tank top and large blue bow on her head doing some gymnastic exercises in a park.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Tumbling/C10_qXWxpsk.mp4",
+        "generated_summary": "Video featuring a young girl playing in backyard is 'totally inappropriate,' says mom.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Tumbling/C10_qXWxpsk.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/qXWxpsk",
+        "DeCap_caption": "To be generated"
+    },
+    "v_gYqXtgtyFnY": {
+        "start": 0,
+        "end": 67.87,
+        "summary_cap": "Some feet with ballerina shoes on are seen in front of cabinets and a fridge.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Putting_on_shoes/gYqXtgtyFnY.mp4",
+        "generated_summary": "Video featuring the legs and ankles of a girl dancing in heels, wearing only her socks.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Putting_on_shoes/gYqXtgtyFnY.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/gYqXtgtyFnY",
+        "DeCap_caption": "To be generated"
+    },
+    "v_fmRio4-6Xqc": {
+        "start": 0,
+        "end": 10.06,
+        "summary_cap": "men are doing motocross in a competition.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Doing_motocross/fmRio4-6Xqc.mp4",
+        "generated_summary": "Video features a spectator jumping from fence to wall in the downhill section of an event.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Doing_motocross/fmRio4-6Xqc.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/fmRio4-6Xqc",
+        "DeCap_caption": "To be generated"
+    },
+    "v_mFWRIp164r4": {
+        "start": 0,
+        "end": 161.45,
+        "summary_cap": "A large group of people are hanging around outdoors either sitting, standing, or playing tug o war.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Tug_of_war/mFWRIp164r4.mp4",
+        "generated_summary": "Video showing the cricket match between India and Pakistan in a village of students.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Tug_of_war/mFWRIp164r4.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/mFWRIp164r4",
+        "DeCap_caption": "To be generated"
+    },
+    "v_u5ri43qbi1A": {
+        "start": 28.71,
+        "end": 220.85,
+        "summary_cap": "This video gives the audience a step by step guide of how to make a pikachu cake.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Making_a_cake/u5ri43qbi1A.mp4",
+        "generated_summary": "Video features Pikachu and his toy car, which he created for a birthday cake in the kitchen.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Making_a_cake/u5ri43qbi1A.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/u5ri43qbi1A",
+        "DeCap_caption": "To be generated"
+    },
+    "v_sbr3HKm2Y9I": {
+        "start": 0,
+        "end": 196.58,
+        "summary_cap": "marching band wering red uniforms are in street playing drums and doing a choreography.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Drum_corps/sbr3HKm2Y9I.mp4",
+        "generated_summary": "Video highlighting the drum band parade of students in a school.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Drum_corps/sbr3HKm2Y9I.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/sbr3HKm2Y9I",
+        "DeCap_caption": "To be generated"
+    },
+    "v_x8cuLOUppmU": {
+        "start": 0,
+        "end": 45.23,
+        "summary_cap": "A woman is standing behind a green fence.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Hammer_throw/x8cuLOUppmU.mp4",
+        "generated_summary": "Video features pitchers throwing a baseball at the cage, and then watching it hit.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Hammer_throw/x8cuLOUppmU.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/x8cuLOUppmU",
+        "DeCap_caption": "To be generated"
+    },
+    "v_cyznGwlE9hM": {
+        "start": 0,
+        "end": 233.78,
+        "summary_cap": "This is a shot put and discus throw music video.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_m5PO3T2uGzs": {
+        "start": 0,
+        "end": 24.01,
+        "summary_cap": "There's a little baby dressed in a purple outfit swinging on a swing in children's park with her father standing next to her.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Swinging_at_the_playground/m5PO3T2uGzs.mp4",
+        "generated_summary": "Video describes swinging toddler's life in a swing.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Swinging_at_the_playground/m5PO3T2uGzs.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/m5PO3T2uGzs",
+        "DeCap_caption": "To be generated"
+    },
+    "v_vc820BteGzY": {
+        "start": 0,
+        "end": 156.69,
+        "summary_cap": "There are three young children standing next to a kitchen counter in their kitchen showing a baking recipe.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Making_a_cake/vc820BteGzY.mp4",
+        "generated_summary": "Video presents the recipe from a toddler's birthday party.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Making_a_cake/vc820BteGzY.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/vc820BteGzY",
+        "DeCap_caption": "To be generated"
+    },
+    "v_A8dBgZCuQow": {
+        "start": 0,
+        "end": 173.06,
+        "summary_cap": "A woman sitting in a room puts on makeup as a song plays.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_30Yk_1Yc7Vk": {
+        "start": 0,
+        "end": 57.47,
+        "summary_cap": "A man is sitting in a chair.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Getting_a_haircut/30Yk_1Yc7Vk.mp4",
+        "generated_summary": "Video featuring haircut and beard of a priest who was shot in the face by police during his visit to Nicaragua,",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Getting_a_haircut/30Yk_1Yc7Vk.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/1Yc7Vk",
+        "DeCap_caption": "To be generated"
+    },
+    "v_tBFX7g605Go": {
+        "start": 2.93,
+        "end": 145.92,
+        "summary_cap": "A rabbit is cleaning itself with its tongue.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Washing_face/tBFX7g605Go.mp4",
+        "generated_summary": "Video features Bunny, a rabbit who is constantly hungry.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Washing_face/tBFX7g605Go.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/tBFX7g605Go",
+        "DeCap_caption": "To be generated"
+    },
+    "v_N9xp9VbpklQ": {
+        "start": 0.12,
+        "end": 23.78,
+        "summary_cap": "kid is walking ina  green grassy croquet field.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Croquet/N9xp9VbpklQ.mp4",
+        "generated_summary": "Video describes the game's putting green, which was put on in a golf course at an event.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Croquet/N9xp9VbpklQ.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/N9xp9VbpklQ",
+        "DeCap_caption": "To be generated"
+    },
+    "v_KRES3eBM2l4": {
+        "start": 0,
+        "end": 40.71,
+        "summary_cap": "There's a man in a white shirt and black hat playing with a Frisbee disc with his white dog on a large yard.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Disc_dog/KRES3eBM2l4.mp4",
+        "generated_summary": "Video presents the moment dog gets out to chase a flying bird.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Disc_dog/KRES3eBM2l4.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/KRES3eBM2l4",
+        "DeCap_caption": "To be generated"
+    },
+    "v_u8ykXBc2Efs": {
+        "start": 0,
+        "end": 104.85,
+        "summary_cap": "A boy and girl are standing in front of a kitchen sink.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Washing_dishes/u8ykXBc2Efs.mp4",
+        "generated_summary": "Video depicting a toddler's kitchen sink prank gone terribly wrong.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Washing_dishes/u8ykXBc2Efs.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/u8ykXBc2Efs",
+        "DeCap_caption": "To be generated"
+    },
+    "v_64UBH371Jj8": {
+        "start": 0,
+        "end": 54.06,
+        "summary_cap": "A woman is standing at a sink.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Washing_dishes/64UBH371Jj8.mp4",
+        "generated_summary": "Video describes a woman's horrific cooking death in the kitchen of her boyfriend.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Washing_dishes/64UBH371Jj8.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/64UBH371Jj8",
+        "DeCap_caption": "To be generated"
+    },
+    "v_sRol1BJ9EUk": {
+        "start": 0,
+        "end": 13.54,
+        "summary_cap": "A man in a black shirt is in a gym.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Layup_drill_in_basketball/sRol1BJ9EUk.mp4",
+        "generated_summary": "Video describes the workout that led to a dunk.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Layup_drill_in_basketball/sRol1BJ9EUk.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/sRol1BJ9EUk",
+        "DeCap_caption": "To be generated"
+    },
+    "v_MR0vMF_5hp8": {
+        "start": 0,
+        "end": 118.61,
+        "summary_cap": "A person scrapes ice off of the windshield of a car with a windshield scraper, while the person in the car tapes them and sporadically talks to the camera.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Removing_ice_from_car/MR0vMF_5hp8.mp4",
+        "generated_summary": "Video highlighting the rain pouring from a windshield of an auto exploded in front on snow.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Removing_ice_from_car/MR0vMF_5hp8.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/5hp8",
+        "DeCap_caption": "To be generated"
+    },
+    "v_rWQz-EwA4EA": {
+        "start": 0,
+        "end": 9.15,
+        "summary_cap": "A man is standing in a room.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Plastering/rWQz-EwA4EA.mp4",
+        "generated_summary": "Video illustrates insulation being installed in the attic of a house, showing how insulated plaster is applied to ceiling and walls",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Plastering/rWQz-EwA4EA.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/rWQz-EwA4EA",
+        "DeCap_caption": "To be generated"
+    },
+    "v_8C1EFngZC3Q": {
+        "start": 0,
+        "end": 57.24,
+        "summary_cap": "A man is in a studio doing step aerobics along to music on a step block.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Doing_step_aerobics/8C1EFngZC3Q.mp4",
+        "generated_summary": "Video showing the treadmill running on a person's leg.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Doing_step_aerobics/8C1EFngZC3Q.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/8C1EFngZC3Q",
+        "DeCap_caption": "To be generated"
+    },
+    "v_TqcoukXhXeA": {
+        "start": 0,
+        "end": 176.52,
+        "summary_cap": "Two girls are standing outside a building.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Kite_flying/TqcoukXhXeA.mp4",
+        "generated_summary": "Video depicting a man in the Philippines shooting at an armed policeman.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Kite_flying/TqcoukXhXeA.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/TqcoukXhXeA",
+        "DeCap_caption": "To be generated"
+    },
+    "v_dUzqM38vwPI": {
+        "start": 0,
+        "end": 193.79,
+        "summary_cap": "There's a man dressed in blue winter gear standing on the slopes of a snowy mountain with a snowboard in his hands, talking about his snowboarding experience.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Snowboarding/dUzqM38vwPI.mp4",
+        "generated_summary": "Video describes skiing accident on snowmobile in the mountains of northern France.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Snowboarding/dUzqM38vwPI.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/dUzqM38vwPI",
+        "DeCap_caption": "To be generated"
+    },
+    "v_ew7XlNRrKyM": {
+        "start": 0,
+        "end": 16.37,
+        "summary_cap": "A number of individuals play field hockey on a field.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_field_hockey/ew7XlNRrKyM.mp4",
+        "generated_summary": "Video displaying a soccer field scrimmage at the college's campus in fall football season.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_field_hockey/ew7XlNRrKyM.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/ew7XlNRrKyM",
+        "DeCap_caption": "To be generated"
+    },
+    "v_8gUKEh27AFM": {
+        "start": 0,
+        "end": 24.08,
+        "summary_cap": "A man stands behind a cage.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Hammer_throw/8gUKEh27AFM.mp4",
+        "generated_summary": "Video features the throwing range, speed swings and spin jumps of a pitcher.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Hammer_throw/8gUKEh27AFM.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/8gUKEh27AFM",
+        "DeCap_caption": "To be generated"
+    },
+    "v_IqXaLlFSWwc": {
+        "start": 0,
+        "end": 13.15,
+        "summary_cap": "A young man performs a high jump over a raised white pole and onto a red mat on an outdoor sports field at night.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_F30odTEdsxo": {
+        "start": 0,
+        "end": 41.52,
+        "summary_cap": "People are playing cards around a table.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_blackjack/F30odTEdsxo.mp4",
+        "generated_summary": "Video depicting poker players in a Venezuelan prison election.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_blackjack/F30odTEdsxo.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/F30odTEdsxo",
+        "DeCap_caption": "To be generated"
+    },
+    "v_mSyfGQigb8U": {
+        "start": 0,
+        "end": 202.85,
+        "summary_cap": "A person is standing at a sink.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Cleaning_sink/mSyfGQigb8U.mp4",
+        "generated_summary": "Video illustrating sinks and tubs being washed out of a bathroom sink in the kitchen at home.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Cleaning_sink/mSyfGQigb8U.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/mSyfGQigb8U",
+        "DeCap_caption": "To be generated"
+    },
+    "v_pPrW3iW0DA8": {
+        "start": 0,
+        "end": 64.18,
+        "summary_cap": "A man is standing in a driveway.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_7J6cZ_Gz8q4": {
+        "start": 0.92,
+        "end": 177.76,
+        "summary_cap": "A man in a black suit and a woman in a white gown dance in front of a room filled with people eating dinner, on a platform with fireworks, smoke and a live saxophone player playing music in a white suit and hat.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_saxophone/7J6cZ_Gz8q4.mp4",
+        "generated_summary": "Video showing a kiss performed at the wedding of singer and dancer, model.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_saxophone/7J6cZ_Gz8q4.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/Gz8q4",
+        "DeCap_caption": "To be generated"
+    },
+    "v_ugDN2gDN99E": {
+        "start": 0,
+        "end": 7.52,
+        "summary_cap": "A young man is sitting on a rowing machine with a red and white polo shirt,Adidas sweat shorts,and Adidas shoes.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Using_the_rowing_machine/ugDN2gDN99E.mp4",
+        "generated_summary": "Video describes exercise in the gym as a treadmill jump and then fall, but it's actually not.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Using_the_rowing_machine/ugDN2gDN99E.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/ugDN2gDN99E",
+        "DeCap_caption": "To be generated"
+    },
+    "v_kHBTnFweJfw": {
+        "start": 0,
+        "end": 198.25,
+        "summary_cap": "A black man leads  class of people dancing for exercise in a parking lot.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Zumba/kHBTnFweJfw.mp4",
+        "generated_summary": "Video featuring a fitness instructor driving the car in front of an exercise group.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Zumba/kHBTnFweJfw.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/kHBTnFweJfw",
+        "DeCap_caption": "To be generated"
+    },
+    "v_1jWMd8QaN5s": {
+        "start": 0,
+        "end": 38.04,
+        "summary_cap": "People are standing in a line playing a game of Foosball.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Table_soccer/1jWMd8QaN5s.mp4",
+        "generated_summary": "Video describes the chess table at Frankfurt's annual exhibition.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Table_soccer/1jWMd8QaN5s.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/1jWMd8QaN5s",
+        "DeCap_caption": "To be generated"
+    },
+    "v_OOqGdga8t4s": {
+        "start": 0,
+        "end": 22.45,
+        "summary_cap": "A little girl is holding a pink bat.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Hitting_a_pinata/OOqGdga8t4s.mp4",
+        "generated_summary": "Video depicting the ballooning toddler costume parade is a hilarious and adorable moment.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Hitting_a_pinata/OOqGdga8t4s.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/OOqGdga8t4s",
+        "DeCap_caption": "To be generated"
+    },
+    "v_sCxGclun1E0": {
+        "start": 0,
+        "end": 110.06,
+        "summary_cap": "Two kids are sitting behind a counter stirring the ingredients in the bowls.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Baking_cookies/sCxGclun1E0.mp4",
+        "generated_summary": "Video presents a cooking class in which children learn how to make cookies.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Baking_cookies/sCxGclun1E0.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/sCxGclun1E0",
+        "DeCap_caption": "To be generated"
+    },
+    "v_dQR6VEemP24": {
+        "start": 0,
+        "end": 54.1,
+        "summary_cap": "A dog is standing in a bath tub.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_dB50ZkOlDzY": {
+        "start": 0,
+        "end": 41.87,
+        "summary_cap": "The young man is swinging on two poles.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Using_parallel_bars/dB50ZkOlDzY.mp4",
+        "generated_summary": "Video highlighting the gymnastics hurdles in a school gymnasium.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Using_parallel_bars/dB50ZkOlDzY.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/dB50ZkOlDzY",
+        "DeCap_caption": "To be generated"
+    },
+    "v_cnjaB6GFpSc": {
+        "start": 4.77,
+        "end": 158.9,
+        "summary_cap": "people ae in a wooden room doing exercise.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Doing_step_aerobics/cnjaB6GFpSc.mp4",
+        "generated_summary": "Video describes gym's 'therapeutic activities', which include exercise classes, swimming pool sessions and a gym class",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Doing_step_aerobics/cnjaB6GFpSc.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/cnjaB6GFpSc",
+        "DeCap_caption": "To be generated"
+    },
+    "v_aFSaGCvYXXY": {
+        "start": 0,
+        "end": 221,
+        "summary_cap": "A video is shown of an outdoor water ski camp for kids.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Waterskiing/aFSaGCvYXXY.mp4",
+        "generated_summary": "Video highlighting the boat's rescue efforts after a student drowned at sea.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Waterskiing/aFSaGCvYXXY.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/aFSaGCvYXXY",
+        "DeCap_caption": "To be generated"
+    },
+    "v_LdzaFk5VrD0": {
+        "start": 0,
+        "end": 161.17,
+        "summary_cap": "There's a woman sitting in her bedroom talking about how to wear contact lenses.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Putting_in_contact_lenses/LdzaFk5VrD0.mp4",
+        "generated_summary": "Video featuring Yang's reaction to her girlfriend and boyfriend, who was in a heated argument with the woman's husband",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Putting_in_contact_lenses/LdzaFk5VrD0.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/LdzaFk5VrD0",
+        "DeCap_caption": "To be generated"
+    },
+    "v_Xz3F4x70qjQ": {
+        "start": 0,
+        "end": 111.06,
+        "summary_cap": "A small girl holding a cup feeds both herself and a smaller child with a spoon, while people occasionally walk past in the background.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Having_an_ice_cream/Xz3F4x70qjQ.mp4",
+        "generated_summary": "Video displaying the infant eating rice and beans at a restaurant, in front of his mother's face.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Having_an_ice_cream/Xz3F4x70qjQ.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/Xz3F4x70qjQ",
+        "DeCap_caption": "To be generated"
+    },
+    "v_gMLA3a0FMS0": {
+        "start": 0,
+        "end": 107.04,
+        "summary_cap": "There are two players playing lacrosse in an outdoor field while their coach is giving them instructions by the goal net.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_lacrosse/gMLA3a0FMS0.mp4",
+        "generated_summary": "Video features goalie's shot hitting a net trap.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_lacrosse/gMLA3a0FMS0.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/gMLA3a0FMS0",
+        "DeCap_caption": "To be generated"
+    },
+    "v_djE5A2S1Ezg": {
+        "start": 2.05,
+        "end": 198.41,
+        "summary_cap": "A man and woman stand outside of an unpainted brown wooden fence and demonstrate how to paint it using two techniques.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Painting_fence/djE5A2S1Ezg.mp4",
+        "generated_summary": "Video describes how homeowners spray paint a fence with nails.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Painting_fence/djE5A2S1Ezg.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/djE5A2S1Ezg",
+        "DeCap_caption": "To be generated"
+    },
+    "v_dgas2Fku3No": {
+        "start": 0,
+        "end": 87.05,
+        "summary_cap": "There's an indoor badminton court where some doubles tennis matches are going on while some spectators watch them play.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_badminton/dgas2Fku3No.mp4",
+        "generated_summary": "Video about Tennis Malaysia's first ever match in front of a crowd at the end.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_badminton/dgas2Fku3No.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/dgas2Fku3No",
+        "DeCap_caption": "To be generated"
+    },
+    "v_BhCNHWQhhEw": {
+        "start": 0,
+        "end": 191.61,
+        "summary_cap": "There's a tattoo artist wearing blue gloves inking a tattoo on a client's arm in a tattoo parlor.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Getting_a_tattoo/BhCNHWQhhEw.mp4",
+        "generated_summary": "Video describes the tattoo procedure performed by a nurse practitioner in an emergency.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Getting_a_tattoo/BhCNHWQhhEw.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/BhCNHWQhhEw",
+        "DeCap_caption": "To be generated"
+    },
+    "v_xkIhTMJ_ThA": {
+        "start": 0,
+        "end": 11.4,
+        "summary_cap": "woman is wearing black shorts playing squash in a room.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_racquetball/xkIhTMJ_ThA.mp4",
+        "generated_summary": "Video displaying the basketball shot from inside a court in an indoor volleyball match at squash.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_racquetball/xkIhTMJ_ThA.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/ThA",
+        "DeCap_caption": "To be generated"
+    },
+    "v_g17h49EYsJY": {
+        "start": 0,
+        "end": 72.03,
+        "summary_cap": "Children in canoes are being filmed paddling on a lake.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_g7glOdM6BYo": {
+        "start": 0,
+        "end": 80.46,
+        "summary_cap": "An animal is being held by a person.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Clipping_cat_claws/g7glOdM6BYo.mp4",
+        "generated_summary": "Video illustrates the grooming procedure of a dog bite victim.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Clipping_cat_claws/g7glOdM6BYo.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/g7glOdM6BYo",
+        "DeCap_caption": "To be generated"
+    },
+    "v_Z6l2Yu9Q0mU": {
+        "start": 0,
+        "end": 210,
+        "summary_cap": "A man is standing in a room.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Hula_hoop/Z6l2Yu9Q0mU.mp4",
+        "generated_summary": "Video features an actor dressed as a ninja, who performs the dance moves in front of you.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Hula_hoop/Z6l2Yu9Q0mU.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/Z6l2Yu9Q0mU",
+        "DeCap_caption": "To be generated"
+    },
+    "v_UPwDuuYlLfQ": {
+        "start": 0,
+        "end": 35.06,
+        "summary_cap": "A dog is sitting on a table.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_MrVj3D-DuJI": {
+        "start": 0,
+        "end": 81.97,
+        "summary_cap": "A woman is standing in a room.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Hula_hoop/MrVj3D-DuJI.mp4",
+        "generated_summary": "Video illustrating how juggling hoop is used by a woman who was born with.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Hula_hoop/MrVj3D-DuJI.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/MrVj3D-DuJI",
+        "DeCap_caption": "To be generated"
+    },
+    "v_yxDsp8EBZtY": {
+        "start": 0,
+        "end": 8.34,
+        "summary_cap": "man is in a bricked sidewalk doing a shot put.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Discus_throw/yxDsp8EBZtY.mp4",
+        "generated_summary": "Video featuring Russian throwing the ball over a golf course, and kicking it.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Discus_throw/yxDsp8EBZtY.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/yxDsp8EBZtY",
+        "DeCap_caption": "To be generated"
+    },
+    "v_hfZQBDePOOE": {
+        "start": 1,
+        "end": 199.46,
+        "summary_cap": "A professional wake boarder interviews on camera in between shots of him demonstrating tricks and stunts on a wakeboard in the water.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_G72MBCYwT8E": {
+        "start": 0,
+        "end": 50.18,
+        "summary_cap": "This video shows Colin Minor's hammer throw in the junior olympics.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Hammer_throw/G72MBCYwT8E.mp4",
+        "generated_summary": "Video featuring the ball bouncing off of a fence and hitting an object.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Hammer_throw/G72MBCYwT8E.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/G72MBCYwT8E",
+        "DeCap_caption": "To be generated"
+    },
+    "v_je6wJ_Ky5wg": {
+        "start": 0,
+        "end": 77.52,
+        "summary_cap": "A lady in a sports bra leads a glass in aerobics using a exercise step.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Doing_step_aerobics/je6wJ_Ky5wg.mp4",
+        "generated_summary": "Video showing gymnastics training in the gym, which includes a woman's butt lifting exercises.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Doing_step_aerobics/je6wJ_Ky5wg.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/Ky5wg",
+        "DeCap_caption": "To be generated"
+    },
+    "v_BR9dr2iOyNc": {
+        "start": 0,
+        "end": 102.07,
+        "summary_cap": "A man is acting strangely on a subway.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_SF3pw17yBB4": {
+        "start": 0,
+        "end": 15.14,
+        "summary_cap": "A person is holding a large knife in a kitchen.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Peeling_potatoes/SF3pw17yBB4.mp4",
+        "generated_summary": "Video illustrating the fruit knife being sliced off of an apple peeler.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Peeling_potatoes/SF3pw17yBB4.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/SF3pw17yBB4",
+        "DeCap_caption": "To be generated"
+    },
+    "v_yWEFVfX-JoI": {
+        "start": 0,
+        "end": 238.12,
+        "summary_cap": "Two people are in canoes are paddling down rapids on a river.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Canoeing/yWEFVfX-JoI.mp4",
+        "generated_summary": "Video highlights river crashing, surf riding and canoeing in a storm.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Canoeing/yWEFVfX-JoI.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/yWEFVfX-JoI",
+        "DeCap_caption": "To be generated"
+    },
+    "v__roK9m9UOvM": {
+        "start": 0,
+        "end": 36.72,
+        "summary_cap": "A woman is laying in a bed.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_zuBJzdDI9MY": {
+        "start": 0,
+        "end": 75.88,
+        "summary_cap": "A man is standing in a kitchen.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_5g7bqiT7Y3c": {
+        "start": 0,
+        "end": 5.85,
+        "summary_cap": "A man is standing on a field behind a fence.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Discus_throw/5g7bqiT7Y3c.mp4",
+        "generated_summary": "Video featuring a jump from the fence, and then landing in front of an empty netting.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Discus_throw/5g7bqiT7Y3c.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/5g7bqiT7Y3c",
+        "DeCap_caption": "To be generated"
+    },
+    "v_sQwx_m8Vghw": {
+        "start": 0,
+        "end": 25.96,
+        "summary_cap": "A person uses a bike chain pedals and a wheel to power a small generator.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Fixing_bicycle/sQwx_m8Vghw.mp4",
+        "generated_summary": "Video illustrating how a welding machine can be used to make the wheel.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Fixing_bicycle/sQwx_m8Vghw.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/m8Vghw",
+        "DeCap_caption": "To be generated"
+    },
+    "v_l-PDSOCk7z0": {
+        "start": 0,
+        "end": 140.09,
+        "summary_cap": "Toothbrushes and a plate with paint on it are sitting out.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Painting/l-PDSOCk7z0.mp4",
+        "generated_summary": "Video about kindergarten art and crafts in preschoolers' hands.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Painting/l-PDSOCk7z0.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/l-PDSOCk7z0",
+        "DeCap_caption": "To be generated"
+    },
+    "v_nKPkHO9ajs8": {
+        "start": 0,
+        "end": 52.76,
+        "summary_cap": "A boy is playing in the yard.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_lacrosse/nKPkHO9ajs8.mp4",
+        "generated_summary": "Video featuring jumping and throwing of sticks, which was filmed by a kid in the backyard.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_lacrosse/nKPkHO9ajs8.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/nKPkHO9ajs8",
+        "DeCap_caption": "To be generated"
+    },
+    "v_O2Y6rn4gFd4": {
+        "start": 0,
+        "end": 24.66,
+        "summary_cap": "The young man is shaving his leg.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Shaving_legs/O2Y6rn4gFd4.mp4",
+        "generated_summary": "Video presents the sexual assault and rape of a young boy in his home.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Shaving_legs/O2Y6rn4gFd4.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/O2Y6rn4gFd4",
+        "DeCap_caption": "To be generated"
+    },
+    "v_yWCEDAQvhzA": {
+        "start": 0,
+        "end": 171.13,
+        "summary_cap": "There are three black belt karate masters demonstrating and doing karate in a large gym with several spectators.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Doing_karate/yWCEDAQvhzA.mp4",
+        "generated_summary": "Video features a judge's demonstration of how to defend the technique, which involves holding up an opponent with a hand",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Doing_karate/yWCEDAQvhzA.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/yWCEDAQvhzA",
+        "DeCap_caption": "To be generated"
+    },
+    "v_1cLxW-FhgpA": {
+        "start": 4.54,
+        "end": 177.06,
+        "summary_cap": "A woman is belly standing in a room.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Belly_dance/1cLxW-FhgpA.mp4",
+        "generated_summary": "Video describes costume yoga pants, belt and waistband for women's costumes.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Belly_dance/1cLxW-FhgpA.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/1cLxW-FhgpA",
+        "DeCap_caption": "To be generated"
+    },
+    "v_-76d-7Ju7L0": {
+        "start": 0,
+        "end": 191.89,
+        "summary_cap": "There's a man doing a tutorial in his yard, showing how to spray paint and rust proof the wheel of a truck.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Changing_car_wheel/-76d-7Ju7L0.mp4",
+        "generated_summary": "Video illustrating how a tire bottle was thrown into an empty beer can.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Changing_car_wheel/-76d-7Ju7L0.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/-76d-7Ju7L0",
+        "DeCap_caption": "To be generated"
+    },
+    "v_A4L4ObzZ5VE": {
+        "start": 0,
+        "end": 9.36,
+        "summary_cap": "A bunch of dirt bikes are going around a dirt track racing.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_z48kSSKMoXo": {
+        "start": 0,
+        "end": 84.65,
+        "summary_cap": "A woman stands inside a gym.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_fk_hkHmnmJo": {
+        "start": 0,
+        "end": 60.33,
+        "summary_cap": "There's a swimmer standing in the pool showing how to apply sunscreen on the body using a stick.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Applying_sunscreen/fk_hkHmnmJo.mp4",
+        "generated_summary": "Video highlighting the swimsuit arm of a foot swimming in water.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Applying_sunscreen/fk_hkHmnmJo.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/hkHmnmJo",
+        "DeCap_caption": "To be generated"
+    },
+    "v_IZx-EMbylmM": {
+        "start": 0,
+        "end": 134.1,
+        "summary_cap": "The woman is talking to the camera.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Drinking_coffee/IZx-EMbylmM.mp4",
+        "generated_summary": "Video describes how the girl, who has been drinking coffee for a while now and is not wearing makeup or acting",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Drinking_coffee/IZx-EMbylmM.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/IZx-EMbylmM",
+        "DeCap_caption": "To be generated"
+    },
+    "v_5AG9Q5bF4pM": {
+        "start": 0,
+        "end": 121.6,
+        "summary_cap": "There's a woman in printed black and white shirt doing a tutorial on a cooking recipe in her kitchen.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_PDjtB578yRk": {
+        "start": 0,
+        "end": 148.17,
+        "summary_cap": "A large group of people are gathered outdoors on a cemented area and some of the adults that are standing are playing on instruments and singing.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Capoeira/PDjtB578yRk.mp4",
+        "generated_summary": "Video features Brazilian boxer boxing with a child dancer in school uniform dancing to music.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Capoeira/PDjtB578yRk.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/PDjtB578yRk",
+        "DeCap_caption": "To be generated"
+    },
+    "v_2imjxY43yYM": {
+        "start": 0,
+        "end": 188.4,
+        "summary_cap": "A group of people are dancing in a hall.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_Flh6nxGkf74": {
+        "start": 0,
+        "end": 35.85,
+        "summary_cap": "A women narrates a news story about sand sculpting on the beach.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Building_sandcastles/Flh6nxGkf74.mp4",
+        "generated_summary": "Video features snow sculpting and painting in the sand.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Building_sandcastles/Flh6nxGkf74.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/Flh6nxGkf74",
+        "DeCap_caption": "To be generated"
+    },
+    "v_x_FAc0KqMVw": {
+        "start": 0,
+        "end": 119.37,
+        "summary_cap": "Two people are sitting in chairs holding acoustic guitars.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_guitarra/x_FAc0KqMVw.mp4",
+        "generated_summary": "Video describes Takeru's first encounter with the guitar.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_guitarra/x_FAc0KqMVw.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/FAc0KqMVw",
+        "DeCap_caption": "To be generated"
+    },
+    "v_QoTM5tmcJeI": {
+        "start": 0,
+        "end": 31.09,
+        "summary_cap": "A couple of children are playing in a large game room area.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Table_soccer/QoTM5tmcJeI.mp4",
+        "generated_summary": "Video features a restaurant arcade with the kids playing basketball, soccer and table tennis.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Table_soccer/QoTM5tmcJeI.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/QoTM5tmcJeI",
+        "DeCap_caption": "To be generated"
+    },
+    "v_V1SEaTS9hos": {
+        "start": 0,
+        "end": 11.15,
+        "summary_cap": "Two men are scrubbing the clothes using their hands.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Hand_washing_clothes/V1SEaTS9hos.mp4",
+        "generated_summary": "Video illustrating a man washing his hands after the slaughtering of chickens in an alley near hospital sanitation facilities.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Hand_washing_clothes/V1SEaTS9hos.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/V1SEaTS9hos",
+        "DeCap_caption": "To be generated"
+    },
+    "v_BH-kBRn84i8": {
+        "start": 0,
+        "end": 22.11,
+        "summary_cap": "The man in white shirt is cutting the grass with lawn mower.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Cutting_the_grass/BH-kBRn84i8.mp4",
+        "generated_summary": "Video illustrating the aftermath of an arsonist who sprayed a lawn mower into homes in suburban San Diego.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Cutting_the_grass/BH-kBRn84i8.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/BH-kBRn84i8",
+        "DeCap_caption": "To be generated"
+    },
+    "v_lKi-hl_KGJ4": {
+        "start": 0,
+        "end": 207.17,
+        "summary_cap": "Several people are standing in a gym.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Zumba/lKi-hl_KGJ4.mp4",
+        "generated_summary": "Video features Gym teacher dancing to music school pupils in the background.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Zumba/lKi-hl_KGJ4.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/KGJ4",
+        "DeCap_caption": "To be generated"
+    },
+    "v_GV_BDNmUiLY": {
+        "start": 0,
+        "end": 124.85,
+        "summary_cap": "men are on the ocean doing windsurfing.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Sailing/GV_BDNmUiLY.mp4",
+        "generated_summary": "Video featuring a sailing ship racing through an ocean with the winner's medal on board.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Sailing/GV_BDNmUiLY.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/BDNmUiLY",
+        "DeCap_caption": "To be generated"
+    },
+    "v_z8VqGGu5vPc": {
+        "start": 0,
+        "end": 215.04,
+        "summary_cap": "A university swim team is doing a fund raiser washing cars.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_2lUqeOw61QY": {
+        "start": 7.22,
+        "end": 72.56,
+        "summary_cap": "People are playing basketball on a court.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_IqRN2sOQ7Mo": {
+        "start": 0,
+        "end": 187.71,
+        "summary_cap": "People are on the beach enjoying a hot and sunny day.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Kite_flying/IqRN2sOQ7Mo.mp4",
+        "generated_summary": "Video featuring the beach party participants, which is being held by volunteers from various organisations including UN peace and development organisation",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Kite_flying/IqRN2sOQ7Mo.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/IqRN2sOQ7Mo",
+        "DeCap_caption": "To be generated"
+    },
+    "v_lOCw2uO3UK8": {
+        "start": 0,
+        "end": 172.2,
+        "summary_cap": "A young man does warm up exercises before playing a solo game of tennis in a gym room using the wall as an opponent before finally collapsing on the gym floor in exhaustion and then rising again.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_racquetball/lOCw2uO3UK8.mp4",
+        "generated_summary": "Video describes how the tennis ball bounces off his foot and hits him in a head spin.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_racquetball/lOCw2uO3UK8.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/lOCw2uO3UK8",
+        "DeCap_caption": "To be generated"
+    },
+    "v_lVOBMs6op7o": {
+        "start": 0,
+        "end": 11.01,
+        "summary_cap": "man is holding a cup talking to other people in a classroom.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Drinking_coffee/lVOBMs6op7o.mp4",
+        "generated_summary": "Video highlighting the detention of a student in an interrogation room at Seoul's central university has gone viral.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Drinking_coffee/lVOBMs6op7o.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/lVOBMs6op7o",
+        "DeCap_caption": "To be generated"
+    },
+    "v_83oa1S0x9zI": {
+        "start": 0,
+        "end": 149.75,
+        "summary_cap": "Several people in white uniforms stand on a field.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_7o7hL0VccJQ": {
+        "start": 0,
+        "end": 93.03,
+        "summary_cap": "A man on the street corner outside a venue, standing on stilts plays a bagpipe as people go by.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Playing_bagpipes/7o7hL0VccJQ.mp4",
+        "generated_summary": "Video features a homeless man who is wearing fur as he walks the streets of downtown.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Playing_bagpipes/7o7hL0VccJQ.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/7o7hL0VccJQ",
+        "DeCap_caption": "To be generated"
+    },
+    "v_NGiDXRIx1gk": {
+        "start": 11.4,
+        "end": 175.45,
+        "summary_cap": "Two men are engaging in a fencing match inside of a fencing gym.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Doing_fencing/NGiDXRIx1gk.mp4",
+        "generated_summary": "Video highlighting tennis players in the fencing competition during an indoor tournament at a school near Copenhagen, Denmark.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Doing_fencing/NGiDXRIx1gk.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/NGiDXRIx1gk",
+        "DeCap_caption": "To be generated"
+    },
+    "v_MzNI-qdQfQc": {
+        "start": 0,
+        "end": 107.02,
+        "summary_cap": "A man is holding a rubik's cube.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_TdqEtrrPX_Q": {
+        "start": 0,
+        "end": 27.21,
+        "summary_cap": "The photographer is lying on his side taking picture of the man lying on his back.",
+        "path": "",
+        "generated_summary": "_",
+        "slot2_path": "",
+        "slot2_framepath": "",
+        "DeCap_caption": "_"
+    },
+    "v_pQsk5XPTLoY": {
+        "start": 0,
+        "end": 13.47,
+        "summary_cap": "a tv is playing in a room.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Doing_a_powerbomb/pQsk5XPTLoY.mp4",
+        "generated_summary": "Video displaying the wrestling match between a wrestler, referee and two referees.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Doing_a_powerbomb/pQsk5XPTLoY.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/pQsk5XPTLoY",
+        "DeCap_caption": "To be generated"
+    },
+    "v_jA05XIX7Yh0": {
+        "start": 0,
+        "end": 105.14,
+        "summary_cap": "Waves are shown crashing against the beach.",
+        "path": "/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/validation/Surfing/jA05XIX7Yh0.mp4",
+        "generated_summary": "Video presents a man surfing on an island in the middle of storm.",
+        "slot2_path": "/slot2/open_ended_video_analytics/data/ActivityNet_200/validation/Surfing/jA05XIX7Yh0.mp4",
+        "slot2_framepath": "/slot2/open_ended_video_analytics/data/Decap_ANet_videosummary/jA05XIX7Yh0",
+        "DeCap_caption": "To be generated"
+    },
     "v_99xnJSBRzkE": {
         "start": 0,
         "end": 152.25,
