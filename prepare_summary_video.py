@@ -2,6 +2,7 @@ import json
 import os
 
 def get_slot2_path(vid_clean, database):
+
     entry = database[vid_clean]
     subset = entry['subset']
     label = entry['annotations'][0]['label']
@@ -23,9 +24,16 @@ def prepare_data(fn, flag='val'):
 
     ## For val set
     if flag == 'val':
+
+        # load ../data/activity_net.v1-3.min.json
+        with open('../data/activity_net.v1-3.min.json') as f:
+            activity_net = json.load(f)
+        
+        dataset = activity_net['database']
+
         # check number of videos with Zerocap generated captions
         has_zeroCapcaption_ct = 0
-        for video, info in data.items():
+        for vid, info in data.items():
             if info['generated_summary'] != '_':
                 has_zeroCapcaption_ct += 1
         print('Number of videos has Zerocap generated captions: ', has_zeroCapcaption_ct)
@@ -33,6 +41,23 @@ def prepare_data(fn, flag='val'):
         # add slot2_path for each video, check if slot2_path exists
         has_slot2_path_ct = 0
         for vid, info in data.items():
+
+            # add url, label for each video
+            vid_clean = '_'.join(vid.split('_')[1:])
+            entry = dataset[vid_clean]
+            info['url'] = entry['url']
+            info['label'] = entry['annotations'][0]['label']
+
+            # add captions placeholder for tian and hasnat to do manual annotated captions
+            info['tian_caption_no_instruction'] = ''
+            info['hasnat_caption_no_instruction'] = ''
+            info['tian_caption_with_instruction'] = ''
+            info['hasnat_caption_with_instruction'] = ''
+
+            # add place holder for manual rating of groundtruth video summary captions
+            # from 1 to 5, 1 is the worst, 5 is the best
+            info['caption_rating(1-wst, 5-bst)'] = ''
+
             hasnat_path = info['path']
             slot2_path = hasnat_path.replace('/home/grads/h/hasnat.md.abdullah/open_ended_activity_analysis/zero-shot-video-to-text/data/ActivityNet_captions_dataset/', 
                                             '/slot2/open_ended_video_analytics/data/ActivityNet_200/')
@@ -99,6 +124,5 @@ if __name__ == '__main__':
     prepare_data('ActivityNet/Hasnat/zerocap_output_val_1_summary_id_caption.json')
     prepare_data('ActivityNet/Hasnat/zerocap_output_val_2_summary_id_caption.json')
     prepare_data('ActivityNet/Hasnat/zerocap_output_train_summary_id_caption.json')
-
     # prepare_data('ActivityNet/Hasnat/train_summary_id_to_caption.json', 'train')
     
