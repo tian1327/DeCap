@@ -104,10 +104,12 @@ def cal_scores(fn, true_cap, gen_cap):
 
     # Calculate BLEU score
     cumulative_bleu_scores = []
+    bleu_scores_list = []
     weight_list = [(1, 0, 0, 0),(0.5, 0.5, 0, 0),(0.33, 0.33, 0.33, 0),(0.25, 0.25, 0.25, 0.25)]
     for n in range(4):
         bleu_scores = [sentence_bleu(ref, cand, weights=weight_list[n]) for ref, cand in zip(reference_captions, candidate_captions)]        
         average_bleu_score = statistics.mean(bleu_scores)
+        bleu_scores_list.append(bleu_scores)
         cumulative_bleu_scores.append(average_bleu_score)
         
     # Calculate METEOR score
@@ -118,7 +120,30 @@ def cal_scores(fn, true_cap, gen_cap):
     cider_scores = [cal_cider_score(ref, cand) for ref, cand in zip(reference_captions, candidate_captions)]
     average_cider_score = statistics.mean(cider_scores)
 
+    # assign the scores to the data
+    idx = 0
+    for vid, info in data.items():
+        if info[gen_cap] != "_":
+            info[f'{gen_cap}_bleu1'] = round(bleu_scores_list[0][idx], 6)
+            info[f'{gen_cap}_bleu2'] = round(bleu_scores_list[1][idx], 6)
+            info[f'{gen_cap}_bleu3'] = round(bleu_scores_list[2][idx], 6)
+            info[f'{gen_cap}_bleu4'] = round(bleu_scores_list[3][idx], 6)
+            info[f'{gen_cap}_meteor'] = round(meteor_scores[idx], 6)
+            info[f'{gen_cap}_cider'] = round(cider_scores[idx], 6)
+            idx += 1
+        else:
+            info[f'{gen_cap}_bleu1'] = -1
+            info[f'{gen_cap}_bleu2'] = -1
+            info[f'{gen_cap}_bleu3'] = -1
+            info[f'{gen_cap}_bleu4'] = -1
+            info[f'{gen_cap}_meteor'] = -1
+            info[f'{gen_cap}_cider'] = -1
 
+    # save the data to json file
+    with open(fn, 'w') as f:
+        json.dump(data, f, indent=4)
+    print(f"Saved scores to {fn}")
+     
     # Print cumulative BLEU scores
     print("\nCumulative BLEU scores:")
     for i, score in enumerate(cumulative_bleu_scores):
