@@ -98,5 +98,7 @@ if __name__ == '__main__':
 
     prepare_data('ActivityNet/Hasnat/zerocap_output_val_1_summary_id_caption.json')
     prepare_data('ActivityNet/Hasnat/zerocap_output_val_2_summary_id_caption.json')
-    prepare_data('ActivityNet/Hasnat/train_summary_id_to_caption.json', 'train')
+    prepare_data('ActivityNet/Hasnat/zerocap_output_train_summary_id_caption.json')
+
+    # prepare_data('ActivityNet/Hasnat/train_summary_id_to_caption.json', 'train')
     
