@@ -284,7 +284,17 @@ if __name__ == '__main__':
     for file in caption_files:
         with open(file, 'r') as f:
             caption = json.load(f)
-            video_info.update(caption)
+            
+            # donot update if the key already exists, so it will use val_1.json for the overlapping videos
+            for vid, info in caption.items():
+                if vid not in video_info:
+                    video_info.update({vid: info})
+                else:
+                    pass
+                    # print('key already exists:', vid)
+
+
+            # video_info.update(caption)
     
 
     ## generate the DeCap caption for each video
