@@ -1,2 +1,3 @@
 *.pt
 coco_train.json
+*.pkl
